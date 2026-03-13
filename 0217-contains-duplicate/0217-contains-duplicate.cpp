@@ -32,16 +32,12 @@ public:
         int n=nums.size();
         unordered_set<int> seen;
 
-    for (int i=0;i<n; i++){
-
-        if(seen.find(nums[i])!= seen.end()){                    
-             return true;
+        for (int i=0;i<n; i++){
+              if(seen.find(nums[i])!= seen.end()){                    
+                            return true;
+                }
+            seen.insert(nums[i]);   //time complexity O(n)  space complexity:-O(n)
         }
-
-        seen.insert(nums[i]);
-    }
-
-    return false;
-        
+    return false;       
     }
 };

@@ -7,15 +7,17 @@ public:
      int n=s.size();
      int n2=t.size();
 
-     for(int i=0; i < n; i++){    
+     if(n!=n2) return false;
+
+     for(int i=0; i < n; i++){   //O(n) 
         mp[s[i]]++;
      }
 
-     for(int i=0; i < n2; i++){    
+     for(int i=0; i < n2; i++){   //O(m)  
         mpp[t[i]]++;
      }
 
-     return mp==mpp;
+     return mp==mpp;  //0(26)->O(1)
 
     }
 };

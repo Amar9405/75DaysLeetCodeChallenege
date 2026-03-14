@@ -13,11 +13,13 @@ public:
         mp[s[i]]++;
      }
 
-     for(int i=0; i < n2; i++){   //O(m)  
+     for(int i=0; i < n2; i++){   //O(n2)  
         mpp[t[i]]++;
      }
 
      return mp==mpp;  //0(26)->O(1)
+     
 
+     //overall timecomplexity=O(n)+o(n2)+O(1)=O(n+n2)
     }
 };

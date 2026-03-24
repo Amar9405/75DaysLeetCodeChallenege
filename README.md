@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0242-valid-anagram) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0009-palindrome-number) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Binary Search
 |  |
 | ------- |

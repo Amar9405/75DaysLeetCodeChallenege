@@ -2,7 +2,6 @@ class Solution {
 public:
    long long ncr(int n , int c){
          int res=1;
-
          for(int i=0; i<c; i++){
             res=res * ( n-i);
             res=res  / (i+1);
@@ -20,9 +19,6 @@ public:
             }
             ans.push_back(temp);
         }
-
-
         return ans;
-    
     }
 };

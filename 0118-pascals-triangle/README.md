@@ -4,7 +4,7 @@
 <img alt="" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif" style="height:240px; width:260px" />
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
-<pre><strong>Input:</strong> numRows = 5
+<pre><strong>Input:</strong> numRows = 5 
 <strong>Output:</strong> [[1],[1,1],[1,2,1],[1,3,3,1],[1,4,6,4,1]]
 </pre><p><strong class="example">Example 2:</strong></p>
 <pre><strong>Input:</strong> numRows = 1

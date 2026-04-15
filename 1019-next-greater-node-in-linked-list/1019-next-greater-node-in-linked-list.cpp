@@ -32,7 +32,7 @@ public:
              curr=curr->next;
        }
 
-     return ans;
+     return ans;//time complexity O(n^2)
         
     }
 };

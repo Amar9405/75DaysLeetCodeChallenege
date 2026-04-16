@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0061-rotate-list) |
 | [0125-valid-palindrome](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0203-remove-linked-list-elements) |

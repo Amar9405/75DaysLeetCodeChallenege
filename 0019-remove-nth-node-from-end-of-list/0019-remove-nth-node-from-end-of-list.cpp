@@ -57,41 +57,73 @@ public:
     //    }
 
     //    return  ReverseLL(NewHeadReverseLL);;
-    if(head==NULL){
-        return NULL;
-    }
+    // if(head==NULL){
+    //     return NULL;
+    // }
 
-    int size=0;
-    ListNode* temp=head;
+    // int size=0;
+    // ListNode* temp=head;
 
-    while(temp != NULL){
-        size++;
-        temp=temp->next;
-    }
+    // while(temp != NULL){
+    //     size++;
+    //     temp=temp->next;
+    // }
 
-    if(size==n){
-        ListNode* newhead=head->next;
-        delete head;
-        return  newhead;
-    }
+    // if(size==n){
+    //     ListNode* newhead=head->next;
+    //     delete head;
+    //     return  newhead;
+    // }
 
-     temp=head; 
-     int res=size-n;
+    //  temp=head; 
+    //  int res=size-n;
 
-     while(temp !=  NULL){
-        res--;
-        if(res==0){
-            break;
-        }
-        temp=temp->next;
+    //  while(temp !=  NULL){
+    //     res--;
+    //     if(res==0){
+    //         break;
+    //     }
+    //     temp=temp->next;
+    //  }
+
+    //  ListNode* deletetoNode=temp->next;
+    //  temp->next=temp->next->next;
+    //  delete deletetoNode;
+
+    //  return head;
+
+     //Most optimal  solution
+
+     ListNode* fast=head;
+     ListNode* slow=head;
+
+     for(int i=0; i<n; i++) fast=fast->next;
+
+     if(fast==NULL) return head->next;
+
+     while(fast->next != NULL){
+        fast=fast->next;
+        slow=slow->next;
      }
 
-     ListNode* deletetoNode=temp->next;
-     temp->next=temp->next->next;
+     ListNode* deleteNode=slow->next;
 
-     delete deletetoNode;
+     slow->next=slow->next->next;
+
+     delete(deleteNode);
 
      return head;
+
+
+
+
+
+
+     
+
+
+
+
 
     }
 };

@@ -12,51 +12,86 @@ class Solution {
 public:
 
   
-    ListNode*  ReverseLL(ListNode* head){
-           ListNode*  temp=head;
-           ListNode* prev=NULL;
+    // ListNode*  ReverseLL(ListNode* head){
+    //        ListNode*  temp=head;
+    //        ListNode* prev=NULL;
 
-            while(temp != NULL){
-                 ListNode* front = temp->next;
-                temp->next = prev;
-                prev = temp;
-                temp = front;
-            }
-            return prev;
-    }
+    //         while(temp != NULL){
+    //              ListNode* front = temp->next;
+    //             temp->next = prev;
+    //             prev = temp;
+    //             temp = front;
+    //         }
+    //         return prev;
+    // }
 
 
     ListNode* removeNthFromEnd(ListNode* head, int n) {
 
-       if(head==NULL ){
-           return NULL;
-       }
+    //    if(head==NULL ){
+    //        return NULL;
+    //    }
 
 
-       ListNode* NewHeadReverseLL=ReverseLL(head);
+    //    ListNode* NewHeadReverseLL=ReverseLL(head);
 
-       int size=0;
+    //    int size=0;
 
-       ListNode*  temp=NewHeadReverseLL;
-       ListNode*  prev=NULL;
+    //    ListNode*  temp=NewHeadReverseLL;
+    //    ListNode*  prev=NULL;
 
-       while(temp != NULL){
-          size++;
-          if(size==n){
-             if(prev==NULL){
-                  NewHeadReverseLL=temp->next;
-             }else{
-                prev->next=temp->next;
-             }
-             delete temp;
-             break;
+    //    while(temp != NULL){
+    //       size++;
+    //       if(size==n){
+    //          if(prev==NULL){
+    //               NewHeadReverseLL=temp->next;
+    //          }else{
+    //             prev->next=temp->next;
+    //          }
+    //          delete temp;
+    //          break;
 
-          }
-          prev=temp;
-          temp=temp->next;
-       }
+    //       }
+    //       prev=temp;
+    //       temp=temp->next;
+    //    }
 
-       return  ReverseLL(NewHeadReverseLL);
+    //    return  ReverseLL(NewHeadReverseLL);;
+    if(head==NULL){
+        return NULL;
+    }
+
+    int size=0;
+    ListNode* temp=head;
+
+    while(temp != NULL){
+        size++;
+        temp=temp->next;
+    }
+
+    if(size==n){
+        ListNode* newhead=head->next;
+        delete head;
+        return  newhead;
+    }
+
+     temp=head; 
+     int res=size-n;
+
+     while(temp !=  NULL){
+        res--;
+        if(res==0){
+            break;
+        }
+        temp=temp->next;
+     }
+
+     ListNode* deletetoNode=temp->next;
+     temp->next=temp->next->next;
+
+     delete deletetoNode;
+
+     return head;
 
     }
 };

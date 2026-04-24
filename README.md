@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0009-palindrome-number) |
 | [0382-linked-list-random-node](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0382-linked-list-random-node) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0061-rotate-list) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0206-reverse-linked-list) |

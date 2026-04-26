@@ -34,7 +34,6 @@ public:
         int carry=0;
 
         while(t1 != NULL || t2 !=  NULL){
-           
             int sum=carry;
 
             if(t1) sum+=t1->val;

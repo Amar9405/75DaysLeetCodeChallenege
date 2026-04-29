@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0445-add-two-numbers-ii) |
+| [0707-design-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0382-linked-list-random-node) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

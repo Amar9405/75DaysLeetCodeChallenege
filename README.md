@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0929-unique-email-addresses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
+| [1207-unique-number-of-occurrences](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1207-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0929-unique-email-addresses) |
+| [1207-unique-number-of-occurrences](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1207-unique-number-of-occurrences) |
 ## Sorting
 |  |
 | ------- |

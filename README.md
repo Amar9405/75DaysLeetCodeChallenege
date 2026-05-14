@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0929-unique-email-addresses) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1207-unique-number-of-occurrences) |
+| [2845-count-of-interesting-subarrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2845-count-of-interesting-subarrays) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1207-unique-number-of-occurrences) |
+| [2845-count-of-interesting-subarrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2845-count-of-interesting-subarrays) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Sorting
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0724-find-pivot-index) |
+| [2845-count-of-interesting-subarrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2845-count-of-interesting-subarrays) |
 ## Two Pointers
 |  |
 | ------- |

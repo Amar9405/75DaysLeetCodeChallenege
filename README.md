@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -207,4 +208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0303-range-sum-query-immutable) |
 | [0707-design-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0707-design-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->

@@ -4,12 +4,11 @@ public:
 
         vector<vector<int>> ans(n, vector<int>(n));
 
-        int n2=ans.size();
-        int m=ans[0].size();
+      
 
         //declare the Boundary of 2D matrix;
-        int left=0, right=m-1; 
-        int top=0, bottom=n2-1;
+        int left=0, right=n-1; 
+        int top=0, bottom=n-1;
 
         int insert=1;
 

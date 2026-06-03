@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0059-spiral-matrix-ii) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0048-rotate-image) |
 | [0382-linked-list-random-node](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0445-add-two-numbers-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0059-spiral-matrix-ii) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0304-range-sum-query-2d-immutable) |

@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0287-find-the-duplicate-number) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0347-top-k-frequent-elements) |
 | [3659-partition-array-into-k-distinct-groups](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/3659-partition-array-into-k-distinct-groups) |
 ## Quickselect

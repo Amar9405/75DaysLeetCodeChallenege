@@ -16,6 +16,7 @@ public:
     if(head==NULL || head->next==NULL){
         return head;
      }
+     
      ListNode* newhead=reverseLinked(head->next);
      ListNode* front=head->next;
      front->next=head;

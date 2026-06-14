@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0498-diagonal-traverse) |
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |

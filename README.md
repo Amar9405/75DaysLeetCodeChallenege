@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0048-rotate-image) |
 | [0382-linked-list-random-node](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0445-add-two-numbers-ii) |
+| [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -292,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0128-longest-consecutive-sequence) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

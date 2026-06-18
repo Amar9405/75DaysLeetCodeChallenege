@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0049-group-anagrams) |
@@ -299,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->

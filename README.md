@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0242-valid-anagram) |
 | [0929-unique-email-addresses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0929-unique-email-addresses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
@@ -306,4 +308,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

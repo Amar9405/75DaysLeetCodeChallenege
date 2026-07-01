@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0367-valid-perfect-square) |
 | [0382-linked-list-random-node](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0704-binary-search) |

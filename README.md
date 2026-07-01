@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1207-unique-number-of-occurrences) |
 | [2055-plates-between-candles](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2055-plates-between-candles) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2845-count-of-interesting-subarrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2845-count-of-interesting-subarrays) |
 | [2906-construct-product-matrix](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0455-assign-cookies) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0704-binary-search) |
 | [2055-plates-between-candles](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2055-plates-between-candles) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |

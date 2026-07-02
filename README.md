@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |

@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
+| [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
 | ------- |

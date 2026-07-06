@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -210,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -361,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0131-palindrome-partitioning) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->

@@ -1,39 +1,61 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n=nums1.size();
-        int n2=nums2.size();
-        int i=0;
-        int j=0;
+    double findMedianSortedArrays(vector<int>& arr1, vector<int>& arr2) {
+         int n1=arr1.size();
+      int n2=arr2.size();
 
-        vector<int> mergedarray;
-    
+      int n=n1+n2;
 
-        while(i < n && j < n2){
-            if(nums1[i] < nums2[j]){
-                  mergedarray.push_back(nums1[i]);
-                  i++;
-            }else{
-                mergedarray.push_back(nums2[j]);
-                j++;
-            }
+      int ind2=n/2;
+      int ind1=ind2-1;
+
+
+      int indel1=-1;
+      int indel2=-1;
+
+
+      int i=0;
+      int j=0;
+      int cnt=0;
+
+
+      while(i < n1 && j < n2){
+
+          if(arr1[i] < arr2[j]){
+              if(cnt==ind1) indel1=arr1[i];
+              if(cnt==ind2)  indel2=arr1[i];
+              cnt++;
+              i++;
+             
+          }else{
+            if(cnt==ind1) indel1=arr2[j];
+            if(cnt==ind2) indel2=arr2[j];
+            cnt++;
+            j++;
+          }
+
+      }
+
+     while(i < n1){
+            if(cnt == ind1) indel1 = arr1[i];
+            if(cnt == ind2) indel2 = arr1[i];
+            cnt++;
+            i++;
         }
-        
-        //remaining element of array 1
-        while(i < n )  mergedarray.push_back(nums1[i++]);
-        //remaining element of array 2
-        while(j < n2)  mergedarray.push_back(nums2[j++]);
 
-        int mergesize=n+n2;
-
-        if(mergesize % 2 == 1){
-            int mid=mergesize/2;
-            return mergedarray[mid];
+        while(j < n2){
+            if(cnt == ind1) indel1 = arr2[j];
+            if(cnt == ind2) indel2 = arr2[j];
+            cnt++;
+            j++;
         }
-        
-    
-       return (double) ((double)(mergedarray[mergesize/2]) + (double)(mergedarray[mergesize/2-1])) / 2.0;
-        
+
+      if(n % 2 == 1){
+          return (double) indel2;
+      }
+
+
+      return (double)  ((double) (indel1+indel2)) /2.0;
 
     }
 };

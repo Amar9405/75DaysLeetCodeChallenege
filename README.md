@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0347-top-k-frequent-elements) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0367-valid-perfect-square) |
 | [0493-reverse-pairs](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0493-reverse-pairs) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0131-palindrome-partitioning) |
+| [0300-longest-increasing-subsequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |

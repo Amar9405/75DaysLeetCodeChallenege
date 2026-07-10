@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0304-range-sum-query-2d-immutable) |
 | [0707-design-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0707-design-linked-list) |
@@ -382,4 +384,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->

@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0131-palindrome-partitioning) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0225-implement-stack-using-queues) |

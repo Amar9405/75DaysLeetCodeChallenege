@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0493-reverse-pairs) |
 | [0498-diagonal-traverse](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0498-diagonal-traverse) |
+| [0503-next-greater-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
 ## Reservoir Sampling
 |  |

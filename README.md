@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2055-plates-between-candles](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2055-plates-between-candles) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2104-sum-of-subarray-ranges) |
 | [2845-count-of-interesting-subarrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2845-count-of-interesting-subarrays) |
 | [2906-construct-product-matrix](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1544-make-the-string-great) |
+| [2104-sum-of-subarray-ranges](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Merge Sort
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
+| [2104-sum-of-subarray-ranges](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2104-sum-of-subarray-ranges) |
 ## Reservoir Sampling
 |  |
 | ------- |

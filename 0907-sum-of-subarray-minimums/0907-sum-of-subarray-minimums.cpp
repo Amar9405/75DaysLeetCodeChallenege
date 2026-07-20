@@ -4,7 +4,7 @@ public:
    vector<int> previousSmaller(vector<int>& arr) {
 
     int n = arr.size();
-    vector<int> left(n);
+    vector<int> left(n);  
     stack<int> st;
 
     for (int i = 0; i < n; i++) {

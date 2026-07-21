@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0015-3sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0128-longest-consecutive-sequence) |

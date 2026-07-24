@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0392-is-subsequence) |
 | [0929-unique-email-addresses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0300-longest-increasing-subsequence) |
+| [0392-is-subsequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0907-sum-of-subarray-minimums) |
 ## Linked List

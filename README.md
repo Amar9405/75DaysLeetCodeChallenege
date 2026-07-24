@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0724-find-pivot-index) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 ## Queue
 |  |

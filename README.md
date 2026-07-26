@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0240-search-a-2d-matrix-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0347-top-k-frequent-elements) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1876-substrings-of-size-three-with-distinct-characters) |

@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
 | [1207-unique-number-of-occurrences](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1207-unique-number-of-occurrences) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2055-plates-between-candles](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2055-plates-between-candles) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue
 |  |

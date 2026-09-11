@@ -1,51 +1,56 @@
 class Solution {
 public:
     
-    vector<int> FindPrefixMax(vector<int> &arr, int &n) {
-        vector<int> prefixMax(n);
+    vector<int> prefixsum(vector<int>& height , int n){
+         vector<int> prefixsum(n);
+         prefixsum[0]=height[0];
 
-        prefixMax[0] = arr[0];
+         for(int i=1; i<n; i++){
+            prefixsum[i]=max(prefixsum[i-1], height[i]);
+         }
 
-        for (int i = 1; i < n; i++) {
-            prefixMax[i] = max(prefixMax[i - 1], arr[i]);
-        }
-
-        return prefixMax;
+        return prefixsum;
     }
 
-    vector<int> FindSuffixMax(vector<int> &arr, int &n) {
+    vector<int> suffixsum(vector<int>& height , int n){
+        vector<int> suffixsum(n);
+        suffixsum[n-1]=height[n-1];
 
-        vector<int> suffixMax(n);
+        for(int i=n-2; i>=0; i--){
 
-        suffixMax[n - 1] = arr[n - 1];
+            suffixsum[i]=max(suffixsum[i+1],height[i]);
 
-        for (int i = n - 2; i >= 0; i--) {
-            suffixMax[i] = max(suffixMax[i + 1], arr[i]);
         }
 
-        return suffixMax;
+        return suffixsum;
+
     }
 
-   
+
+
+    
 
     int trap(vector<int>& height) {
 
+        int n=height.size();
 
-        int n = height.size();
+        vector<int> leftmax= prefixsum(height , n );
+        vector<int> rightmax= suffixsum(height , n);
 
-        int total = 0;  // for store total trapped water.
+        int total=0;
 
-        vector<int> leftmax = FindPrefixMax(height, n);
-        vector<int> rightmax = FindSuffixMax(height, n);
+        for(int i=0; i<n; i++){
 
-        for (int i = 0; i < n; i++) {
-            if (height[i] < leftmax[i] && height[i] < rightmax[i]) {
-                total += (min(leftmax[i], rightmax[i]) - height[i]);
+
+            
+            if(height[i] < leftmax[i] && height[i] < rightmax[i]){
+                total+=(min(leftmax[i] , rightmax[i])-height[i]);
+
             }
         }
 
-        return total;
-        
+
+        return total;  
         
     }
 };

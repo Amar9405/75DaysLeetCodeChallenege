@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0141-linked-list-cycle) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0227-basic-calculator-ii) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |

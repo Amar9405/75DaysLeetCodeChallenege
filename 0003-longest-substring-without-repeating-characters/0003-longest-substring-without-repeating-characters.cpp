@@ -5,12 +5,12 @@ public:
         int n=s.size();
         unordered_set<char> st;
 
-      
-        int ans=0;
         int left=0;
 
+        int ans=0;
 
-        for(int right=0;  right < n; right++){
+        for(int right=0; right<n; right++){
+
 
             while(st.count(s[right])){
                 st.erase(s[left]);
@@ -19,13 +19,16 @@ public:
 
             st.insert(s[right]);
 
-            ans=max(ans, right - left +  1);
-
+            ans = max( ans , right - left + 1 );  
 
         }
 
-       return ans;
 
+        return ans;
+
+
+        
+    
 
 
         

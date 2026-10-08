@@ -5,41 +5,42 @@ public:
         int n=s.size();
         int m=t.size();
 
-        int hash[256]={0};
-
-        for(char ch:t){
-            hash[ch]++;
-        }
-
 
         int left=0;
         int right=0;
 
-        int sIndex=-1;
-        int minLength=INT_MAX;
+        int minLen=INT_MAX;
+        int stIndex=-1;
+
         int count=0;
+
+        int hash[256]={0};
+
+        for(char ch : t){
+            hash[ch]++;
+        }
 
         while(right < n){
 
             if(hash[s[right]] > 0){
                 count++;
             }
+
             hash[s[right]]--;
 
             while(count==m){
-
-                if(right-left+1 < minLength){
-                    minLength=right-left+1 ;
-                    sIndex=left;
+                
+                if(right-left + 1 < minLen){
+                    minLen=right-left + 1;
+                    stIndex=left;
                 }
 
-
                 hash[s[left]]++;
-
 
                 if(hash[s[left]] > 0){
                     count--;
                 }
+
                 left++;
 
             }
@@ -48,12 +49,15 @@ public:
 
         }
 
+       if(stIndex==-1){
+          return "";
+       }else{
+          return s.substr(stIndex , minLen);
+       }
 
-        if(sIndex==-1){
-            return "";
-        }else{
-            return s.substr(sIndex,minLength);
-        }   
+
+
+       
         
     }
 };

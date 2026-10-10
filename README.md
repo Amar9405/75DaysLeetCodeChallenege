@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
 | [0929-unique-email-addresses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0929-unique-email-addresses) |
 | [1207-unique-number-of-occurrences](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1207-unique-number-of-occurrences) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0567-permutation-in-string) |
 | [0929-unique-email-addresses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0929-unique-email-addresses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0876-middle-of-the-linked-list) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0658-find-k-closest-elements) |
 | [1052-grumpy-bookstore-owner](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1052-grumpy-bookstore-owner) |

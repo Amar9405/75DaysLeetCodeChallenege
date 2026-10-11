@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2055-plates-between-candles](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2055-plates-between-candles) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2055-plates-between-candles](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2055-plates-between-candles) |
 | [2845-count-of-interesting-subarrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2845-count-of-interesting-subarrays) |
 | [2906-construct-product-matrix](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2906-construct-product-matrix) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0904-fruit-into-baskets) |
 | [1052-grumpy-bookstore-owner](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Queue

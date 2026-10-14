@@ -63,21 +63,25 @@ public:
 
         //optimal apporoach
 
+
         ListNode* t1=headA;
         ListNode* t2=headB;
+
         while(t1 != t2){
             t1=t1->next;
             t2=t2->next;
-           //this condition for only if both linked list is independent then t1 and t2 is point NULL;
-            if(t1 == t2)  return t1;
 
-            if(t1==NULL){
+            if(t1==t2) return t1;
+
+            if(t1 == NULL){
                 t1=headB;
             }
-            if(t2==NULL){
+
+            if(t2 == NULL){
                 t2=headA;
             }
         }
+
         return t1;
 
         

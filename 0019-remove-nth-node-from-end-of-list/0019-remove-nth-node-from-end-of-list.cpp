@@ -94,26 +94,38 @@ public:
 
      //Most optimal  solution
 
-     ListNode* fast=head;
+
      ListNode* slow=head;
+     ListNode* fast=head;
 
      for(int i=0; i<n; i++) fast=fast->next;
 
-     if(fast==NULL) return head->next;
+
+     if(fast == NULL) return head->next;
+
 
      while(fast->next != NULL){
         fast=fast->next;
         slow=slow->next;
      }
+     
 
-     ListNode* deleteNode=slow->next;
+     ListNode* deleteNode = slow->next;
 
-     slow->next=slow->next->next;
+     slow->next = deleteNode->next;
 
      delete(deleteNode);
 
+
      return head;
 
+
+
+
+
+     
+
+   
 
 
 

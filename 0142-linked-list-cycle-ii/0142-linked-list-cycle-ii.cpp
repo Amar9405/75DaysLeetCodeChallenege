@@ -20,26 +20,31 @@ public:
     //         temp=temp->next;
     //     }   
     //   return NULL;
+   
 
-    ListNode* fast=head;
     ListNode* slow=head;
+    ListNode* fast=head;
 
     while(fast != NULL && fast->next != NULL){
-          slow=slow->next;
-          fast=fast->next->next;
+        slow=slow->next;
+        fast=fast->next->next;
 
-          if(slow==fast){
-             fast=head;
-             while(fast != slow){
+        if(slow==fast){
+            slow=head;
+
+            while(slow != fast){
                 slow=slow->next;
-                fast=fast->next;   
-           }    
-           return fast;
-         }
-     }
+                fast=fast->next; 
+            }
+            return fast;
+        }
+    }
 
-     return NULL;
-    
+
+    return NULL;
+
+
+   
 
     }
 };

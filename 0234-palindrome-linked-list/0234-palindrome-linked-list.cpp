@@ -10,66 +10,51 @@
  */
 class Solution {
 public:
-    
-    ListNode*  reverseLinked(ListNode*  head){
 
-    if(head==NULL || head->next==NULL){
-        return head;
-     }
-     
-     ListNode* newhead=reverseLinked(head->next);
-     ListNode* front=head->next;
-     front->next=head;
-     head->next=NULL;
-     return newhead;
+     ListNode*  reverseLL(ListNode* head){
+         if(head->next == NULL) return head;
 
-    }
-    bool isPalindrome(ListNode* head) {
-        // stack<int> st;
-        // ListNode* temp=head;
 
-        // while(temp != NULL){
-        //     st.push(temp->val);
-        //     temp=temp->next;
-        // }
-
-        // temp=head;
-
-        // while(temp != NULL){
-        //     if(temp->val != st.top()){
-        //         return false;
-        //     }
-        //     temp=temp->next;
-        //      st.pop();
-        // }
-
-        // return true;
-
-         ListNode* slow=head;
-         ListNode* fast=head;
-
-         while(fast->next != NULL && fast->next->next != NULL){
-              slow=slow->next;
-              fast=fast->next->next;
+         ListNode* temp=head;
+         ListNode*  prev=NULL;
+         while(temp != NULL){
+            ListNode*  next =temp->next;
+            temp->next=prev;
+            prev=temp;
+            temp=next;
          }
+         return prev;
+     }
 
-         ListNode* newhead= reverseLinked(slow->next);
 
-          ListNode*  first=head;
-          ListNode*  second=newhead;
+    bool isPalindrome(ListNode* head) {
 
-          while(second != NULL){
-              
-              if(first->val != second->val)
-              {
-                reverseLinked(newhead);
-                return false;
-              }
-              first=first->next;
-              second=second->next;    
-          }
+        if(head == NULL || head->next == NULL) return true;
 
-          return true;
-        
+        ListNode* slow=head;
+        ListNode* fast=head;
+
+        while(fast ->next != NULL && fast->next->next != NULL ){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+
+        ListNode* newHead=reverseLL(slow->next);
+
+        ListNode* t1=head;
+        ListNode* t2=newHead;
+
+        while(t2 != NULL){
+            
+            if(t1->val != t2->val) return false;
+
+            t1=t1->next;
+            t2=t2->next;
+
+        }
+
+        return true;
+
+     
     }
 };

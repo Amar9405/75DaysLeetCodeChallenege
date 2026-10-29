@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0907-sum-of-subarray-minimums) |
 | [0929-unique-email-addresses](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0929-unique-email-addresses) |
 | [0977-squares-of-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1207-unique-number-of-occurrences) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2055-plates-between-candles](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2055-plates-between-candles) |

@@ -16,44 +16,44 @@ public:
 
     int longestConsecutive(vector<int>& nums) {
 
-        // int n=nums.size();
-        // int longest=0;
-
-        // if(n==0) return 0;
-
-        // for( int i=0; i<n; i++){
-        //     int x=nums[i];
-        //     int cnt=1;
-
-        //     while(linearsearch( nums , x+1) == true){
-        //          x +=1;
-        //         cnt+=1;
-        //     }
-        //     longest=max(longest,cnt);
-        // }
-        
-        // return longest;
-
         int n=nums.size();
-        if(n==0) return 0;
 
-        sort(nums.begin(),nums.end());
+        if(n==0){
+            return 0;
+        }
 
-        int lastsmaller=INT_MIN;
-        int cnt=0;
-        int longest=1;
+        unordered_set<int> stt;
 
         for(int i=0; i<n; i++){
-            if(nums[i]-1==lastsmaller){
-                cnt+=1;
-                lastsmaller=nums[i];
-            }else if(nums[i] !=  lastsmaller){
-                cnt=1;
-                lastsmaller=nums[i];
+            stt.insert(nums[i]);
+        }
+
+        int ans=1;
+
+        for(int num : stt){
+
+
+            if(stt.find(num-1) == stt.end()){
+
+                int curr=num;
+                int count=1;
+
+                while(stt.find(curr+1) != stt.end()){
+
+                    curr++;
+                    count++;
+
+                }
+
+                ans=max(ans,count);
+
             }
-             longest=max(longest ,cnt);
 
         }
-        return longest;
+
+        return ans;
+
+        
+
     }
 };

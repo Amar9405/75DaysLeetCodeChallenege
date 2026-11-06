@@ -2,16 +2,28 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         
-        unordered_set<int> mpp;
+       int n=nums.size();
 
-        for(int i=0; i<nums.size(); i++){
-            if(mpp.find(nums[i]) != mpp.end()){
-                return true;
-            }
-            mpp.insert(nums[i]);
-        }
+       unordered_set<int> mpp;
 
-         return false;
+       for(int i=0; i<n; i++){
+        
+           if(mpp.find(nums[i]) != mpp.end()){
+
+              return true;
+              
+           }
+
+           mpp.insert(nums[i]);
+
+
+
+       }
+
+       return false;
+
+
+
 
         
     }

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0643-maximum-average-subarray-i) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0904-fruit-into-baskets) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2055-plates-between-candles](https://github.com/Amar9405/75DaysLeetCodeChallenege/tree/master/2055-plates-between-candles) |

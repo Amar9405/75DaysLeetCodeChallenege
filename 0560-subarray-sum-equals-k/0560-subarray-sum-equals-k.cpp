@@ -3,22 +3,39 @@ public:
     int subarraySum(vector<int>& nums, int k) {
 
         int n=nums.size();
-        int ans=0;
+
+        unordered_map<int,int> mpp;
+
+        mpp[0]=1;
+
+        int prefixsum=0;
+
+        int count=0;
+
 
         for(int i=0; i<n; i++){
 
-            int sum=0;
 
-            for(int j=i; j<n; j++){
+            prefixsum+=nums[i];
 
-                sum+=nums[j];
+            int rem= prefixsum - k;
 
-                if(sum == k){
-                    ans++;
-                }
+
+            if(mpp.find(rem) != mpp.end()){
+
+                count+=mpp[rem];
+
 
             }
+
+            mpp[prefixsum]++;
+
+            
+
         }
-        return ans;
+
+        return  count;
+
+        
     }
 };
